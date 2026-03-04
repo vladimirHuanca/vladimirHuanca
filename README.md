@@ -51,8 +51,8 @@ Busco mi primera oportunidad como Data Analyst para seguir desarrollándome en e
 ---
 
 ## 📂 Últimos proyectos (en progreso o finalizados)
+stock-management-system: [https://github.com/vladimirHuanca/stock-management-system]
 
- "stock-management-system": [https://github.com/vladimirHuanca/stock-management-system]
 ---
 
 📫 Contacto:
